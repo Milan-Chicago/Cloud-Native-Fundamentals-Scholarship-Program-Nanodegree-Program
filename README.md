@@ -62,4 +62,4 @@ Note: Using [zsh](https://ohmyz.sh/) is not demanding, but installing it and set
 
 - [Learn Docker in 2 Hours](https://www.youtube.com/watch?v=fqMOX6JJhGo)
 
-I originally forked this from Tserewara/suse-cloud-native-foundations-requirements and added my own perspective. 
+I originally forked this from https://github.com/Tserewara/suse-cloud-native-foundations-requirements and added my own perspective. 
